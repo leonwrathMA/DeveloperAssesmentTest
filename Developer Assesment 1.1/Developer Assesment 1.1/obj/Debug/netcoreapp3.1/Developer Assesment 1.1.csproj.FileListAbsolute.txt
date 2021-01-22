@@ -1,0 +1,13 @@
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\bin\Debug\netcoreapp3.1\Developer Assesment 1.1.exe
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\bin\Debug\netcoreapp3.1\Developer Assesment 1.1.deps.json
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\bin\Debug\netcoreapp3.1\Developer Assesment 1.1.runtimeconfig.json
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\bin\Debug\netcoreapp3.1\Developer Assesment 1.1.runtimeconfig.dev.json
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\bin\Debug\netcoreapp3.1\Developer Assesment 1.1.dll
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\bin\Debug\netcoreapp3.1\Developer Assesment 1.1.pdb
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\obj\Debug\netcoreapp3.1\Developer Assesment 1.1.AssemblyInfoInputs.cache
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\obj\Debug\netcoreapp3.1\Developer Assesment 1.1.AssemblyInfo.cs
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\obj\Debug\netcoreapp3.1\Developer Assesment 1.1.dll
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\obj\Debug\netcoreapp3.1\Developer Assesment 1.1.pdb
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\obj\Debug\netcoreapp3.1\Developer Assesment 1.1.csprojAssemblyReference.cache
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\obj\Debug\netcoreapp3.1\Developer Assesment 1.1.csproj.CoreCompileInputs.cache
+D:\Programming\Developer Assesment projects\Developer Assesment 1.1\Developer Assesment 1.1\obj\Debug\netcoreapp3.1\Developer Assesment 1.1.genruntimeconfig.cache
