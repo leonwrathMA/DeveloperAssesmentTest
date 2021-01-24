@@ -1,0 +1,10 @@
+D:\Programming\Developer Assesment projects\DeveloperAssesment 1.4\obj\Debug\DeveloperAssesment 1.4.csprojAssemblyReference.cache
+D:\Programming\Developer Assesment projects\DeveloperAssesment 1.4\obj\Debug\DeveloperAssesment_1._4.Properties.Resources.resources
+D:\Programming\Developer Assesment projects\DeveloperAssesment 1.4\obj\Debug\DeveloperAssesment 1.4.csproj.GenerateResource.cache
+D:\Programming\Developer Assesment projects\DeveloperAssesment 1.4\obj\Debug\DeveloperAssesment 1.4.csproj.CoreCompileInputs.cache
+D:\Programming\Developer Assesment projects\DeveloperAssesment 1.4\bin\Debug\DeveloperAssesment 1.4.exe.config
+D:\Programming\Developer Assesment projects\DeveloperAssesment 1.4\bin\Debug\DeveloperAssesment 1.4.exe
+D:\Programming\Developer Assesment projects\DeveloperAssesment 1.4\bin\Debug\DeveloperAssesment 1.4.pdb
+D:\Programming\Developer Assesment projects\DeveloperAssesment 1.4\obj\Debug\DeveloperAssesment 1.4.exe
+D:\Programming\Developer Assesment projects\DeveloperAssesment 1.4\obj\Debug\DeveloperAssesment 1.4.pdb
+D:\Programming\Developer Assesment projects\DeveloperAssesment 1.4\obj\Debug\DeveloperAssesment_1._4.LibraryTestForm.resources
