@@ -1,0 +1,7 @@
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 client\obj\Debug\Developer Assesment 1.2 client.csprojAssemblyReference.cache
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 client\obj\Debug\Developer Assesment 1.2 client.csproj.CoreCompileInputs.cache
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 client\bin\Debug\Developer Assesment 1.2 client.exe.config
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 client\bin\Debug\Developer Assesment 1.2 client.exe
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 client\bin\Debug\Developer Assesment 1.2 client.pdb
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 client\obj\Debug\Developer Assesment 1.2 client.exe
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 client\obj\Debug\Developer Assesment 1.2 client.pdb

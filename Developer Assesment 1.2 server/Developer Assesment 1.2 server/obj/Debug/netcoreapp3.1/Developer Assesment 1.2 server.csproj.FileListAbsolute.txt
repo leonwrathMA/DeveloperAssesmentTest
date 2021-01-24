@@ -1,0 +1,13 @@
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\obj\Debug\netcoreapp3.1\Developer Assesment 1.2 server.AssemblyInfoInputs.cache
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\obj\Debug\netcoreapp3.1\Developer Assesment 1.2 server.AssemblyInfo.cs
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\bin\Debug\netcoreapp3.1\Developer Assesment 1.2 server.exe
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\bin\Debug\netcoreapp3.1\Developer Assesment 1.2 server.deps.json
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\bin\Debug\netcoreapp3.1\Developer Assesment 1.2 server.runtimeconfig.json
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\bin\Debug\netcoreapp3.1\Developer Assesment 1.2 server.runtimeconfig.dev.json
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\bin\Debug\netcoreapp3.1\Developer Assesment 1.2 server.dll
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\bin\Debug\netcoreapp3.1\Developer Assesment 1.2 server.pdb
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\obj\Debug\netcoreapp3.1\Developer Assesment 1.2 server.dll
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\obj\Debug\netcoreapp3.1\Developer Assesment 1.2 server.pdb
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\obj\Debug\netcoreapp3.1\Developer Assesment 1.2 server.csprojAssemblyReference.cache
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\obj\Debug\netcoreapp3.1\Developer Assesment 1.2 server.csproj.CoreCompileInputs.cache
+D:\Programming\Developer Assesment projects\Developer Assesment 1.2 server\Developer Assesment 1.2 server\obj\Debug\netcoreapp3.1\Developer Assesment 1.2 server.genruntimeconfig.cache

@@ -14,6 +14,7 @@ namespace Developer_Assesment_1._1
         private readonly object lockObj = new object();
 
         public int getclassVariableMethod() {
+            //here i lock the object, so if multiple threads try to access it they will wait until the lock is lifted.
             lock (lockObj)
             {
                 return classVariable;
@@ -22,6 +23,7 @@ namespace Developer_Assesment_1._1
 
         public void setclassVariableMethod(int newValue)
         {
+            //here i lock the object, so if multiple threads try to access it they will wait until the lock is lifted.
             lock (lockObj)
             {
                 classVariable = newValue;
@@ -30,6 +32,7 @@ namespace Developer_Assesment_1._1
 
         public int getinstanceVariableMethod()
         {
+            //here i lock the object, so if multiple threads try to access it they will wait until the lock is lifted.
             lock (lockObj)
             {
                 return instanceVariable;
@@ -38,6 +41,7 @@ namespace Developer_Assesment_1._1
 
         public void setinstanceVariableMethod(int newValue)
         {
+            //here i lock the object, so if multiple threads try to access it they will wait until the lock is lifted.
             lock (lockObj)
             {
                 instanceVariable = newValue;
